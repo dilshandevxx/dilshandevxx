@@ -1,4 +1,4 @@
- <!-- 🌌 Dilshan's Animated GitHub Profile -->
+ <!-- 🌌 Dilshan's Animated Modern GitHub Profile -->
 
 <!-- Animated Typing Header -->
 <p align="center">
@@ -7,12 +7,11 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me (Typing Animation)  
 
-- 🎓 BSc (Hons) in **Software Engineering** @ Sabaragamuwa University  
-- 🚀 Passionate about **Full-Stack Development, AI & Security**  
-- 🎨 Love **modern UI/UX & futuristic designs**  
-- 🏏 Cricket Lover | 📺 Mystery & Horror Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=🎓+BSc+(Hons)+in+Software+Engineering+@+Sabaragamuwa+University;🚀+Passionate+about+Full-Stack+Development,+AI+%26+Security;🎨+Love+modern+UI/UX+and+futuristic+designs;🏏+Cricket+Lover+%7C+📺+Mystery+%26+Horror+Enthusiast" />
+</p>
 
 ---
 
