@@ -1,8 +1,8 @@
- <!-- 🌌 Dilshan's Modern GitHub Profile -->
+ <!-- 🌌 Dilshan's Modern Animated GitHub Profile -->
 
-<!-- Animated Gradient / Wave Header -->
+<!-- Animated Particles / Smoke Effect Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=particles&color=gradient&height=150&section=header" />
 </p>
 
 <!-- Single Typing Animation Header & About Me Combined -->
