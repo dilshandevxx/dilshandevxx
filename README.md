@@ -1,90 +1,83 @@
- <!-- 🌌 Dilshan's Animated GitHub Profile -->
+ <!-- 🌌 Dilshan's Futuristic GitHub Profile -->
 
-<!-- Header with Wave -->
+<!-- Header Wave with Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:00F5D4&height=220&section=header&text=Hi%20I'm%20Dilshan%20👋&fontSize=40&fontColor=0A192F&animation=twinkling&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20I'm%20Dilshan%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38" />
 </p>
 
-<!-- Typing Intro -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;ML+%26+AI+Explorer;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Open+Source+Contributor;Always+Learning+🚀" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 - 🎓 BSc (Hons) in **Software Engineering** @ Sabaragamuwa University  
-- 💡 Passionate about **Web Systems, Security, AI/ML**  
-- 🚀 Currently learning **React, Spring Boot & Machine Learning**  
-- ⚡ Loves **Cricket 🏏, Music 🎶, and Clean UI Design**  
+- 🚀 Passionate about **Full-Stack Development, AI & Security**  
+- ⚡ Cricket Lover 🏏 | Tech Explorer 🌍 | Clean UI Enthusiast 🎨  
+- 🌱 Currently exploring **Spring Boot + React + ML**  
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Tech Stack (Glowing Animated Icons)
 
 <div align="center">
+
+<!-- Animated Glow Styles -->
+<style>
+  .tech-icon {
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+  .tech-icon:hover {
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 10px #36BCF7);
+  }
+</style>
 
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/><br/>
+      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br/>
       <sub>HTML5</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" alt="CSS3"/><br/>
+      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/><br/>
       <sub>CSS3</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/>
+      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br/>
       <sub>JavaScript</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br/>
+      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><br/>
       <sub>React</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/><br/>
+      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/><br/>
       <sub>Flutter</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br/>
+      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/><br/>
       <sub>Node.js</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/><br/>
+      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/><br/>
       <sub>Express</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br/>
+      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/><br/>
       <sub>Java</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/>
+      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><br/>
       <sub>Python</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/><br/>
+      <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/><br/>
       <sub>MySQL</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/>
-      <sub>Git</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br/>
-      <sub>GitHub</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/><br/>
-      <sub>Linux</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/><br/>
-      <sub>VS Code</sub>
     </td>
   </tr>
 </table>
@@ -96,12 +89,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilshandevxx&show_icons=true&theme=react&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=dilshandevxx&theme=react&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dilshandevxx&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=dilshandevxx&theme=react&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshandevxx&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshandevxx&theme=react-dark&hide_border=true&area=true&line=36BCF7&point=FFFFFF" />
 </p>
 
 ---
@@ -125,12 +118,12 @@
 ## 🎶 Vibes  
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=00ff99&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=36BCF7&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
 ---
 
-<!-- Footer -->
+<!-- Futuristic Footer with Animated Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:00E5FF&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
