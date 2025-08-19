@@ -1,8 +1,8 @@
  <!-- 🌌 Dilshan's Modern Animated GitHub Profile -->
 
-<!-- Animated Smoke/Particle Header -->
+<!-- Modern Animated Nebula/Particle Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=particles&color=gradient&height=150&section=header" />
+  <img src="https://media.giphy.com/media/L0dFv3f1dW6uG/giphy.gif" alt="Animated nebula" width="100%" />
 </p>
 
 <!-- Single Typing Animation Header & About Me Combined -->
