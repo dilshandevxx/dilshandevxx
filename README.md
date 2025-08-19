@@ -1,13 +1,13 @@
  <!-- 🌌 Dilshan's Modern GitHub Profile -->
 
-<!-- Animated Gradient Header -->
+<!-- Gradient Wave Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" />
 </p>
 
-<!-- Typing Text Animation with Blinking Cursor -->
+<!-- Typing Animation with Blinking Cursor -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=700&color=36BCF7&center=true&width=900&lines=Hi+👋+I'm+Dilshan+|;BSc+(Hons)+Software+Engineering+|;Full-Stack+Developer+⚡+|;AI+%26+Machine+Learning+Explorer+|;Love+Modern+UI/UX+and+Futuristic+Designs+|;Cricket+Lover+%7C+Mystery+%26+Horror+Enthusiast+" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=700&color=36BCF7&center=true&width=900&lines=Hi+👋+I'm+Dilshan+|;BSc+(Hons)+Software+Engineering+|;Full-Stack+Developer+⚡+|;AI+%26+Machine+Learning+Explorer+|;Love+Modern+UI/UX+%26+Futuristic+Designs+|;Cricket+Lover+%7C+Mystery+%26+Horror+Enthusiast+" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 ---
 
-<!-- Futuristic Footer Wave -->
+<!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
