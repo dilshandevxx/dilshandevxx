@@ -1,8 +1,8 @@
- <!-- 🌌 Dilshan's Animated Modern GitHub Profile -->
+ <!-- 🌌 Dilshan's Modern GitHub Profile -->
 
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Dilshan;Software+Engineering+Undergraduate;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer;Always+Learning+New+Things+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Dilshan|;Software+Engineering+Undergraduate|;Full-Stack+Developer+⚡|;AI+%26+Machine+Learning+Explorer|;Always+Learning+New+Things|" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me (Typing Animation)  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=🎓+BSc+(Hons)+in+Software+Engineering+@+Sabaragamuwa+University;🚀+Passionate+about+Full-Stack+Development,+AI+%26+Security;🎨+Love+modern+UI/UX+and+futuristic+designs;🏏+Cricket+Lover+%7C+📺+Mystery+%26+Horror+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=🎓+BSc+(Hons)+in+Software+Engineering+@+Sabaragamuwa+University|;🚀+Passionate+about+Full-Stack+Development,+AI+%26+Security|;🎨+Love+modern+UI/UX+and+futuristic+designs|;🏏+Cricket+Lover+%7C+📺+Mystery+%26+Horror+Enthusiast|" />
 </p>
 
 ---
