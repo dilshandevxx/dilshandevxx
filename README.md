@@ -1,13 +1,8 @@
- <!-- 🌌 Dilshan's Animated Modern GitHub Profile -->
+ <!-- 🌌 Dilshan's Animated GitHub Profile -->
 
-<!-- SMOKE BACKGROUND -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://i.gifer.com/76YS.gif" width="100%" height="300px" style="object-fit:cover;" />
-</p>
-
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Dilshan;Software+Engineering+Undergraduate;Full+Stack+Developer+⚡;AI+%26+Machine+Learning+Explorer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Dilshan;Software+Engineering+Undergraduate;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer;Always+Learning+New+Things+%F0%9F%94%A5" />
 </p>
 
 ---
@@ -21,10 +16,23 @@
 
 ---
 
-## 🚀 Tech Stack (Animated Icons)
+## 🚀 Tech Stack (Modern Style)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,nodejs,express,java,python,mysql,git,github,vscode,linux&theme=dark&perline=6" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20React%20%7C%20Flutter-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Java%20%7C%20Python-0D1117?style=for-the-badge&logo=node.js&logoColor=36BCF7" />
+</p>
+<p align="center">
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQLite-36BCF7?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VSCode%20%7C%20Linux-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" />
 </p>
 
 ---
