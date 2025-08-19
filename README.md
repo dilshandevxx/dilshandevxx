@@ -1,1 +1,61 @@
- 👋 Hello, I'm Dilshan!<p align="left"><a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" /></a><a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js Badge" /></a><a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" /></a><a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" /></a><a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" /></a><a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" /></a></p>A dedicated Software Engineer with a passion for creating innovative and efficient digital solutions. I hold a BSc (Hons) in Software Engineering from Sabaragamuwa University of Sri Lanka and specialize in building intuitive user interfaces and robust backend systems.I'm an advocate for clean, maintainable code and am always eager to learn new technologies to solve complex problems.💻 My Tech Stack & SkillsHere are some of the technologies I'm proficient in and currently working with:Frontend:ReactVue.jsHTML5CSS3Tailwind CSSBackend:Node.jsPythonDatabase & Tools:FirebaseMongoDBGitDocker🚀 ProjectsHere are a few projects I'm proud of:Project Alpha: A web-based task management application built with React and Firebase.Project Beta: A data visualization tool using D3.js and Python for data analysis and rendering.You can find more of my work on my repositories!📫 Get in TouchConnect with me and let's build something amazing together!GitHub: your-usernameLinkedIn: your-usernameTwitter: your-usernameEmail: dilshanprathapaarachchi@gmail.com
+ <!-- Modern Creative GitHub Profile README -->
+
+<h1 align="center">Hi 👋, I'm Dilshan</h1>
+<h3 align="center">A Passionate Software Engineering Undergraduate 🚀</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;ML+%26+AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 🌟 About Me  
+- 🎓 Currently pursuing **BSc (Hons) in Software Engineering** at Sabaragamuwa University  
+- 💡 Exploring **Web Development, Machine Learning, and AI**  
+- ⚡ Fun fact: I love **cricket 🏏, music 🎶, and tech 🖥️**  
+- 🌍 Open to **collaborating** on interesting projects  
+
+---
+
+### 🔥 GitHub Stats & Streak  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilshandevxx&show_icons=true&theme=radical" alt="GitHub stats" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=dilshandevxx&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
+</p>
+
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,mysql,git,github,flutter" />
+</p>
+
+---
+
+### 🎵 Vibes  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
+
+---
+
+### 📫 Connect with Me  
+<p align="center">
+  <a href="mailto:dilshanprathapaarachchi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/dilshandevxx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Animated Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshandevxx&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
+---
+
+⭐️ From [Dilshan](https://github.com/dilshandevxx)
