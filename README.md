@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Tech Stack (Glowing Animated Icons)
+## 🚀 Tech Stack  
 
 <div align="center">
 
