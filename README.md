@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tech Stack (Modern Badges)
+## 🚀 Tech Stack 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20React%20%7C%20Flutter-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
