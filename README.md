@@ -5,9 +5,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" />
 </p>
 
-<!-- Single Typing Animation Header & About Me Combined -->
+<!-- Typing Text Animation with Blinking Cursor -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=700&color=36BCF7&center=true&width=900&lines=Hi+👋+I'm+Dilshan;BSc+(Hons)+Software+Engineering;Full-Stack+Developer+⚡;AI+%26+Machine+Learning+Explorer;Love+Modern+UI/UX+and+Futuristic+Designs;Cricket+Lover+%7C+Mystery+%26+Horror+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=700&color=36BCF7&center=true&width=900&lines=Hi+👋+I'm+Dilshan%20|;BSc+(Hons)+Software+Engineering%20|;Full-Stack+Developer+⚡%20|;AI+%26+Machine+Learning%20Explorer%20|;Love+Modern+UI/UX+and+Futuristic+Designs%20|;Cricket+Lover+%7C+Mystery+%26+Horror%20Enthusiast%20|" />
 </p>
 
 ---
