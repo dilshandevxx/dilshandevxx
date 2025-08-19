@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Tech Stack (Animated SVG Edition)
+## 🚀 Tech Stack  
 
 <div align="center">
 
