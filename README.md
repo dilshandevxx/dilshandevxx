@@ -54,8 +54,8 @@
 
 ## 🎶 Vibes  
 
-<p align="center">
-  <img src=" https://open.spotify.com/user/31ovrc3737iiosswjq73reqrjxnm?si=e27af0c4433a47e5" />
+ <p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r5vhbecbclwvkzhd6cifml2pju&cover_image=true&theme=novatorem&bar_color=36BCF7&bar_color_cover=true" />
 </p>
 
 ---
