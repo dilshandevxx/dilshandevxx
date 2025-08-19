@@ -1,79 +1,103 @@
- <!-- 🌌 Modern, Animated GitHub Profile — Dilshan -->
+ <!-- 🌌 Dilshan's Animated GitHub Profile -->
 
-<!-- Wavy Gradient Header -->
+<!-- Header with Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:00E5FF&height=220&section=header&text=Dilshan%20%7C%20Software%20Engineering%20Undergraduate&fontSize=30&fontColor=0A192F&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:00F5D4&height=220&section=header&text=Hi%20I'm%20Dilshan%20👋&fontSize=40&fontColor=0A192F&animation=twinkling&fontAlignY=38" />
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+ML%2FAI+Explorer;Building+clean%2C+modern+UIs+and+robust+APIs;Open+Source+Contributor+%7C+Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;ML+%26+AI+Explorer;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 👋 About Me
-- 🎓 Pursuing **BSc (Hons) in Software Engineering** @ Sabaragamuwa University  
-- 🌱 Currently learning **React**, **Spring Boot**, and **Machine Learning**  
-- 🧠 Interests: **Web Systems, Security, AI/ML**  
-- ⚡ Fun: **Cricket 🏏**, **Music 🎶**, and **clean code**  
+## 👨‍💻 About Me  
+- 🎓 BSc (Hons) in **Software Engineering** @ Sabaragamuwa University  
+- 💡 Passionate about **Web Systems, Security, AI/ML**  
+- 🚀 Currently learning **React, Spring Boot & Machine Learning**  
+- ⚡ Loves **Cricket 🏏, Music 🎶, and Clean UI Design**  
 
 ---
 
-## 🧩 Skill Matrix (Clean & Minimal)
+## 🚀 Tech Stack (Animated SVG Edition)
 
-<!-- One compact line for a quick scan -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,python,mysql,flutter,git,github,linux,vscode&perline=14" />
-</p>
+<div align="center">
 
-<!-- Tidy, collapsible detail groups so it never looks crowded -->
-<details>
-  <summary><b>Frontend</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=8" />
-  </p>
-</details>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" alt="CSS3"/><br/>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/><br/>
+      <sub>Flutter</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/><br/>
+      <sub>Express</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/><br/>
+      <sub>MySQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/><br/>
+      <sub>Linux</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/><br/>
+      <sub>VS Code</sub>
+    </td>
+  </tr>
+</table>
 
-<details>
-  <summary><b>Backend</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,python&perline=8" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Databases</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql&perline=8" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Mobile</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=flutter&perline=8" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Tools & Platforms</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=8" />
-  </p>
-</details>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dilshandevxx&show_icons=true&theme=react&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=dilshandevxx&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilshandevxx&show_icons=true&theme=react&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=dilshandevxx&theme=react&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
@@ -82,39 +106,31 @@
 
 ---
 
-## 🚀 Featured Projects
-<!-- Replace repo names/links as needed -->
-<p align="center">
-  <a href="https://github.com/dilshandevxx/times-word-war-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilshandevxx&repo=times-word-war-2&theme=react&hide_border=true" />
-  </a>
-</p>
+## 🌐 Connect With Me  
 
----
-
-## 🌐 Connect
 <p align="center">
   <a href="mailto:dilshanprathapaarachchi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/dilshandevxx">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎧 Now Playing (Optional)
+## 🎶 Vibes  
+
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=00E5FF&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=00ff99&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
 ---
 
-<!-- Wavy Gradient Footer -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:00F5D4&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:00E5FF&height=150&section=footer"/>
 </p>
