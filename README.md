@@ -1,11 +1,11 @@
  <!-- 🌌 Dilshan's Modern Animated GitHub Profile -->
 
-<!-- Modern Animated Nebula/Particle Header -->
+<!-- Modern Gradient Wave Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L0dFv3f1dW6uG/giphy.gif" alt="Animated nebula" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" />
 </p>
 
-<!-- Single Typing Animation Header & About Me Combined (GitHub-safe SVG) -->
+<!-- Single Typing Animation Header & About Me Combined -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=700&color=36BCF7&center=true&width=900&lines=Hi+👋+I'm+Dilshan;BSc+(Hons)+Software+Engineering;Full-Stack+Developer+⚡;AI+%26+Machine+Learning+Explorer;Love+Modern+UI/UX+and+Futuristic+Designs;Cricket+Lover+%7C+Mystery+%26+Horror+Enthusiast" />
 </p>
