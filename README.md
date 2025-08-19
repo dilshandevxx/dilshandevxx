@@ -1,6 +1,6 @@
  <!-- 🌌 Dilshan's Modern Animated GitHub Profile -->
 
-<!-- Animated Particles / Smoke Effect Header -->
+<!-- Animated Smoke/Particle Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=particles&color=gradient&height=150&section=header" />
 </p>
@@ -15,9 +15,19 @@
 ## 🚀 Tech Stack (Modern Badges)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20React%20%7C%20Flutter-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20React%20%7C%20Flutter-36BCF7?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+<p align="center">
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Java%20%7C%20Python-0D1117?style=for-the-badge&logo=node.js&logoColor=36BCF7" />
+</p>
+<p align="center">
+  <!-- Database -->
   <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQLite-36BCF7?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+<p align="center">
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VSCode%20%7C%20Linux-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" />
 </p>
 
