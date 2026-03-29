@@ -35,7 +35,11 @@ I'm a **Software Engineering Student** focused on developing high-impact, scalab
 
 ---
 
-### 📊 System Metrics
+### 📊 Contribution Metrics
+
+<p align="center">
+  <img src="https://github-isometric-contributions.vercel.app/api?user=dilshandevxx" width="100%" alt="Isometric Contributions" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilshandevxx&show_icons=true&theme=radical&hide_border=true&title_color=41a1f1&icon_color=41a1f1" height="180" />
@@ -43,7 +47,7 @@ I'm a **Software Engineering Student** focused on developing high-impact, scalab
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshandevxx&theme=radical&hide_border=true&area=true&color=41a1f1" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshandevxx&theme=monokai_vibrant&hide_border=true&area=true&color=41a1f1" width="100%" />
 </p>
 
 ---
