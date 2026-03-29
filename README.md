@@ -1,41 +1,41 @@
-<!-- 🌌 Futuristic Minimalist GitHub Profile -->
+<!-- 🌌 AI & Agentic Systems Specialist GitHub Profile -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Software%20Engineer&fontSize=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=AI%20%26%20Machine%20Learning%20Engineer&fontSize=45&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=41A1F1&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+an+engineer+building+the+future;Specializing+in+Full-Stack+Architectures;Crafting+Modern,+Performant+Digital+Experiences;Let's+connect+and+create+together." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=41A1F1&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+an+AI+Engineer+building+the+future;Specializing+in+Generative+AI+%26+Agentic+Systems;Optimizing+MLOps+%26+AIOps+Workflows;Let's+connect+and+innovate+with+AI." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilshandevxx&color=41a1f1&style=for-the-badge&label=ACCESS+LOG" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=dilshandevxx&color=41a1f1&style=for-the-badge&label=NEURAL+ACCESS+LOG" alt="Visitors" />
 </p>
 
 ---
 
-### 🕵️ System Overview
+### 🧠 Intelligence System Overview
 
-I'm a **Software Engineering Student** focused on developing high-impact, scalable systems. My work bridges the gap between sophisticated backend logic and pixel-perfect frontend experiences.
+I'm a **Software Engineering Student** deeply invested in the **AI & Machine Learning** ecosystem. My focus lies in architecting intelligent agents, optimizing MLOps pipelines, and pushing the boundaries of Generative AI.
 
-- ⚡ **Core Focus**: Distributed Systems & Cloud Native Apps
-- 🛠️ **Current Hunt**: Optimizing API Performance & UX Flow
-- 🧠 **Continuous Learning**: Advanced AI Integration
-- 🎮 **Side Interests**: Mystery, Horror & Tech Culture
+- 🤖 **Core Focus**: Agentic AI, LLMs & Neural Architectures
+- ⚙️ **MLOps & AIOps**: Building scalable, automated ML infrastructures
+- 🛠️ **Current Hunt**: Fine-tuning GenAI models for autonomous agents
+- 🎮 **Side Interests**: Mystery, Horror & AI Ethics
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🧪 Neural Arsenal (Tech Stack)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,java,py,mysql,sqlite,mongodb,git,github,vscode,linux,flutter,dart,docker,postman&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,ai,bots,chatgpt,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,postman&perline=11&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 📊 Contribution Metrics
+### 📊 Intelligence Metrics
 
 <p align="center">
   <img src="https://github-isometric-contributions.vercel.app/api?user=dilshandevxx" width="100%" alt="Isometric Contributions" />
@@ -58,7 +58,7 @@ I'm a **Software Engineering Student** focused on developing high-impact, scalab
 
 ---
 
-### 🌐 Secure Connection
+### 🕸️ Neural Connection
 
 <p align="center">
   <a href="mailto:dilshanprathapaarachchi@gmail.com">
