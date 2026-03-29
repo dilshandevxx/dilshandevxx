@@ -41,13 +41,19 @@ I'm a **Software Engineering Student** focused on developing high-impact, scalab
   <img src="https://github-isometric-contributions.vercel.app/api?user=dilshandevxx" width="100%" alt="Isometric Contributions" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilshandevxx&show_icons=true&theme=radical&hide_border=true&title_color=41a1f1&icon_color=41a1f1" height="180" />
-  <img src="https://streak-stats.demolab.com?user=dilshandevxx&theme=radical&hide_border=true&stroke=41a1f1&ring=41a1f1&fire=41a1f1" height="180" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dilshandevxx&show_icons=true&theme=radical&hide_border=true&title_color=41a1f1&icon_color=41a1f1&bg_color=00000000" height="185" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=dilshandevxx&theme=radical&hide_border=true&stroke=41a1f1&ring=41a1f1&fire=41a1f1&background=00000000" height="185" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshandevxx&theme=monokai_vibrant&hide_border=true&area=true&color=41a1f1" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshandevxx&theme=night-owl&hide_border=true&area=true&color=41a1f1&bg_color=00000000&hide_title=true" width="100%" />
 </p>
 
 ---
