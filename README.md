@@ -1,11 +1,11 @@
 <!-- 🌌 AI & Agentic Systems Specialist GitHub Profile -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=AI%20%26%20Machine%20Learning%20Engineer&fontSize=45&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=AI%20%26%20Machine%20Learning%20Engineer&fontSize=45&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=41A1F1&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+an+AI+Engineer+building+the+future;Specializing+in+Generative+AI+%26+Agentic+Systems;Optimizing+MLOps+%26+AIOps+Workflows;Let's+connect+and+innovate+with+AI." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=41A1F1&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+an+AI+Engineer+building+the+future%3BSpecializing+in+Generative+AI+%26+Agentic+Systems%3BOptimizing+MLOps+%26+AIOps+Workflows%3BLet's+connect+and+innovate+with+AI." />
 </p>
 
 <p align="center">
