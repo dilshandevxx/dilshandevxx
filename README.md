@@ -25,15 +25,7 @@ I'm a **Software Engineering Student** deeply invested in the **AI & Machine Lea
 
 ---
 
-### 🧪 Neural Arsenal (Tech Stack)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,ai,bots,chatgpt,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,postman&perline=11&theme=dark" />
-  </a>
-</p>
-
----
+### 📊 Intelligence Metrics
 
 ### 📊 Intelligence Metrics
 
