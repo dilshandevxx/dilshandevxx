@@ -1,7 +1,7 @@
 <!-- 🌌 AI & Agentic Systems Specialist GitHub Profile -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=AI%20%26%20Machine%20Learning%20Engineer&fontSize=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=AI%20and%20Machine%20Learning%20Engineer&fontSize=45&animation=fadeIn" />
 </p>
 
 <p align="center">
