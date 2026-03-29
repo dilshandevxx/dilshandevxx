@@ -27,8 +27,6 @@ I'm a **Software Engineering Student** deeply invested in the **AI & Machine Lea
 
 ### 📊 Intelligence Metrics
 
-### 📊 Intelligence Metrics
-
 <p align="center">
   <img src="https://github-isometric-contributions.vercel.app/api?user=dilshandevxx" width="100%" alt="Isometric Contributions" />
 </p>
